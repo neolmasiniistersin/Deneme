@@ -1,0 +1,11 @@
+{
+  "name": "SineWix",
+  "description": "SineWix içerikleri için CloudStream eklentisi.",
+  "author": "senin_kullanici_adin",  
+  "version": 1,
+  "url": "https://sinewix.com",  
+  "language": "tr",
+  "type": "general",
+  "iconUrl": "https://www.google.com/s2/favicons?domain=sinewix.com",
+  "nsfw": false
+}
